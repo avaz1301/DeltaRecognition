@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/angeloz/Desktop/Delta_Recognition_App/app/libs/pocketsphinx-android-5prealpha-nolib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9abb9316583beaa841a16f884282af120c5d4aa9">
+        <dex dex="/Users/angeloz/Desktop/Delta_Recognition_App/app/build/intermediates/pre-dexed/debug/pocketsphinx-android-5prealpha-nolib_2b4a222ec475f4384559b25a504408dadc7694a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/angeloz/Desktop/pocketsphinx-android-demo/app/libs/pocketsphinx-android-5prealpha-nolib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9abb9316583beaa841a16f884282af120c5d4aa9">
+        <dex dex="/Users/angeloz/Desktop/pocketsphinx-android-demo/app/build/intermediates/pre-dexed/debug/pocketsphinx-android-5prealpha-nolib_0d7cfe7442917f4c1c300e942486576b5b29e2b4.jar" />
+    </item>
+
+</items>
